@@ -21,9 +21,9 @@ neural model fitting for regression problem
 
 # How to run this program?
 ## MacOS/ Linux
-> First you should download the whole program and go to the directory of Source_Code
+> First you should download the whole program .
 
-> Then open the terminal and enter
+> Then open the terminal, go to the directory of Source_Code and enter
 >> bash run.sh
 
 > Wait until ‘Next step ...’ appears on the screen and enter
