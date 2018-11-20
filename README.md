@@ -1,5 +1,5 @@
 # Introduction to CDOL program
-Released code for Cooperative Distributed Online Learning
+Released code for Cooperative Distributed Online Learning using Python3
 > Necessary modules: numpy, pandas, sklearn, keras, tqdm, lightgbm
 ## basic_features.py
 feature engineering for basic features
