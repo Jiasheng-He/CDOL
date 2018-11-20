@@ -29,7 +29,7 @@ neural model fitting for regression problem
 > Wait until ‘Next step ...’ appears on the screen and enter
 >> python3 main.py -s S1_C
 
-> Notice that S1 means the scenario in our paper and can be replaced with S2 - S5. The character 'C' means classification problem and can be replaced with 'R' to predict the taxi demand.
+> Notice that S1 means the corresponding scenario in our paper and can be replaced with S2 - S5. The character 'C' means classification problem and can be replaced with 'R' to predict the taxi demand.
 
 ## Windows
 > Double click run.bat and the following steps are similar as above.
