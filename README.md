@@ -20,7 +20,7 @@ neural model fitting for classification problem
 neural model fitting for regression problem
 
 # How to run this program?
-## MacOS/Linux
+## MacOS/ Linux
 > First you should download the whole program and go to the directory of Source_Code
 
 > Then open the terminal and enter
@@ -30,3 +30,6 @@ neural model fitting for regression problem
 >> python3 main.py -s S1_C
 
 > Notice that S1 means the scenario in our paper and can be replaced with S2 - S5. The character 'C' means classification problem and can be replaced with 'R' to predict the taxi demand.
+
+## Windows
+> Double click run.cmd and the following steps are similar as above.
