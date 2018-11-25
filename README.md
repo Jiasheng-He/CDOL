@@ -1,4 +1,4 @@
-# Introduction to CDOL program
+# Introduction to CDOL project
 Released code for Cooperative Distributed Online Learning using Python3
 > Necessary modules: numpy, pandas, sklearn, keras, tqdm, lightgbm
 ## basic_features.py
@@ -19,8 +19,8 @@ neural model fitting for classification problem
 ## neural_demand.py
 neural model fitting for regression problem
 
-# How to run this program?
-> 1. First you should download the whole program.
+# How to run this project?
+> 1. First you should download the whole project.
 ## MacOS/ Linux
 > 2. Then open the terminal, go to the directory of Source_Code and enter
 >> bash run.sh
