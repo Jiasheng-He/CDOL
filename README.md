@@ -22,7 +22,7 @@ neural model fitting for regression problem
 # How to run this project?
 > 1. First you should download the whole project.
 ## MacOS/ Linux
-> 2. Then open the terminal, go to the directory of Source_Code and enter
+> 2. Then open the terminal, go to the directory 'Code' and enter
 >> bash run.sh
 
 > 3. Wait until ‘Next step ...’ appears on the screen and enter
