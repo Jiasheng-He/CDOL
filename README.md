@@ -31,7 +31,16 @@ neural model fitting for regression problem
 >> Notice that S1 means the corresponding scenario in our paper and can be replaced with S2 - S5. The character 'C' means classification problem and can be replaced with 'R' to predict the taxi demand.
 
 S1 --- CDOL
-S2
+
+S2 --- CDOL2
+
+S3 --- LinUOTD
+
+S4 --- CDOL1
+
+S5 --- NN
+
+
 
 ## Windows
 > 2. Double click run.bat and the following steps are similar as above.
