@@ -25,7 +25,7 @@ train_df = data_whole[:train_mark]
 test_df = data_whole[train_mark:]
 
 
-class FTRLModel:
+class Model:
     def __init__(self, gid_set, dlength):
         self.gset = gid_set
         self.lambda1 = 0.001
@@ -245,7 +245,7 @@ def train(single, overlap, distribution):
         dlength += 24 * 1600
     amodel_list = []
     for area_set in ASET_LIST:
-        amodel_list.append(FTRLModel(area_set, dlength))
+        amodel_list.append(Model(area_set, dlength))
 
     cnt = 0
     for no in tqdm(range(len(train_df))):
